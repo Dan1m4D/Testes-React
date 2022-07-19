@@ -1,0 +1,13 @@
+.list{
+    display: flex;
+    list-style: none;
+    text-decoration: none;
+    color: mediumaquamarine
+}
+.list:visited{
+    text-decoration: none;
+}
+
+.item {
+    margin-right: 1em;
+}
